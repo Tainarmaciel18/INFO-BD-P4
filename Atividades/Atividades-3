@@ -1,1 +1,10 @@
+Descreva as fases de um projeto de banco de dados:
 
+1) modelagem conceitual: 
+ respostas: criação  de modelos conceituais.                                                                                                                                   
+
+2) projeto logico:
+resposta: criação de modelos internos.
+
+3) projeto fisico:
+respostas: criação de modelos fisicos, estrategias de armazenamento e Backup.
