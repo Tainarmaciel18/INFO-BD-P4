@@ -1,1 +1,22 @@
+Defina os seguintes conceitos centrais da abordagem ER:
 
+a) Entidade;
+respostas: conjunto de objetos de realidade modelada sobre as quais deseja-se manter informações.
+
+b) Relacionamento;
+respostas: é associação entre duas entidades, como o medico e o paciente, o pacinte se consulta e o medico examina. 
+
+c) Atributo;
+respostas: o atributo são caracteristicas de cada ocorrencia ou relacionamento.
+
+d) Domínio de um Atributo;
+respostas: existem dois tipos de atributos: indetificadores e descritores.
+
+e) Generalização/especialização;
+respostas: é uma entidade generica e subconjuntos mais especificos.
+
+f) Entidade Associativa;
+respostas: um relacionamento é uma associação entre duas entidades.
+
+g) Cardinalidade de um Atributo.
+respostas: pessoa: -codigo, nome,endereço.
